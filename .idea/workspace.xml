@@ -2,18 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="92471485-0794-4fe7-947f-a24129bef1dc" name="Default" comment="项目">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/admin/fonts/CrYjSnGjrRCn0pd9VQsnFOvvDin1pK8aKteLpeZ5c0A.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/admin/fonts/DXI1ORHCpsQm3Vp6mXoaTaRDOzjiPcYnFooOUGCOsRk.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/admin/fonts/Hgo13k-tfSpn0qi1SFdUfbO3LdcAZYWl9Si6vvxL-qU.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/admin/fonts/MTP_ySUJH_bn48VBG8sNSqRDOzjiPcYnFooOUGCOsRk.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/admin/fonts/RxZJdnzeo3R5zSexge8UUbO3LdcAZYWl9Si6vvxL-qU.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/admin/fonts/cJZKeOuBrn4kERxqtaUH3bO3LdcAZYWl9Si6vvxL-qU.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/admin/fonts/d-6IYplOFocCacKzxwXSOLO3LdcAZYWl9Si6vvxL-qU.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/admin/fonts/glyphicons-halflings-regular.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/admin/fonts/glyphicons-halflings-regular.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/admin/fonts/glyphicons-halflings-regular.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/admin/fonts/glyphicons-halflings-regular.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/admin/fonts/k3k702ZOKiLJc3WVjuplzKRDOzjiPcYnFooOUGCOsRk.woff" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/admin/images/flags/16/Abkhazia.png" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/admin/images/flags/16/Afghanistan.png" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/admin/images/flags/16/Aland.png" />
@@ -1151,30 +1139,7 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/uploadify/uploadify-cancel.png" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/uploadify/uploadify.swf" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/webuploader/Uploader.swf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/console/bin/hiddeninput.exe" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/mail/tests/Mail/files/background.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/mail/tests/Mail/files/example.zip" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/utils/tests/Utils/expected/Image.alpha.flip1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/utils/tests/Utils/expected/Image.alpha.resize1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/utils/tests/Utils/expected/Image.alpha.resize2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/utils/tests/Utils/expected/Image.alpha1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/utils/tests/Utils/expected/Image.alpha2.0.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/utils/tests/Utils/expected/Image.alpha2.1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/utils/tests/Utils/expected/Image.alpha2.100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/utils/tests/Utils/expected/Image.alpha2.100b.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/utils/tests/Utils/expected/Image.alpha2.50.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/utils/tests/Utils/expected/Image.alpha2.50b.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/utils/tests/Utils/expected/Image.alpha2.99.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/utils/tests/Utils/expected/Image.drawing.1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/utils/tests/Utils/expected/Image.drawing.2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/utils/tests/Utils/images/alpha1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/utils/tests/Utils/images/alpha2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/utils/tests/Utils/images/alpha3.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/utils/tests/Utils/images/bad.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/utils/tests/Utils/images/logo.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/utils/tests/Utils/images/logo.tiff" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/.htaccess" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/admin/fonts/glyphicons-halflings-regular.svg" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/admin/js/bootstrap.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/admin/js/bootstrap.min.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/admin/js/chosen.jquery.js" />
@@ -2616,377 +2581,6 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/webuploader/webuploader.nolog.min.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/webuploader/webuploader.withoutimage.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/webuploader/webuploader.withoutimage.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/.htaccess" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/.travis.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/CONTRIBUTING.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/LICENSE.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/base.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/classmap.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/composer.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/console.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/convention.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/helper.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/lang/zh-cn.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/App.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/Build.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/Cache.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/Collection.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/Config.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/Console.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/Controller.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/Cookie.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/Db.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/Debug.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/Error.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/Exception.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/File.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/Hook.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/Lang.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/Loader.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/Log.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/Model.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/Paginator.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/Process.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/Request.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/Response.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/Route.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/Session.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/Template.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/Url.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/Validate.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/View.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/cache/driver/Apc.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/cache/driver/File.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/cache/driver/Lite.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/cache/driver/Memcache.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/cache/driver/Memcached.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/cache/driver/Redis.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/cache/driver/Redisd.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/cache/driver/Sae.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/cache/driver/Secache.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/cache/driver/Sqlite.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/cache/driver/Test.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/cache/driver/Wincache.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/cache/driver/Xcache.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/config/driver/Ini.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/config/driver/Json.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/config/driver/Xml.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/console/Input.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/console/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/console/Output.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/console/command/Build.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/console/command/Command.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/console/command/Help.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/console/command/Lists.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/console/command/Make.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/console/command/make/Controller.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/console/command/make/Model.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/console/helper/Debug.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/console/helper/Descriptor.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/console/helper/Formatter.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/console/helper/Helper.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/console/helper/Process.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/console/helper/Question.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/console/helper/Set.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/console/helper/descriptor/Console.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/console/helper/descriptor/Descriptor.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/console/helper/question/Choice.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/console/helper/question/Confirmation.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/console/helper/question/Question.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/console/input/Argument.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/console/input/Definition.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/console/input/Option.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/console/output/Formatter.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/console/output/Nothing.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/console/output/Stream.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/console/output/formatter/Stack.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/console/output/formatter/Style.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/controller/Hprose.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/controller/Jsonrpc.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/controller/Rest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/controller/Rpc.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/controller/Yar.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/db/Builder.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/db/Connection.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/db/Query.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/db/builder/Mysql.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/db/builder/Oracle.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/db/builder/Pgsql.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/db/builder/Sqlite.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/db/builder/Sqlsrv.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/db/connector/Mysql.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/db/connector/Oracle.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/db/connector/Pgsql.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/db/connector/Sqlite.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/db/connector/Sqlsrv.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/db/connector/pgsql.sql" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/db/exception/BindParamException.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/db/exception/DataNotFoundException.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/db/exception/ModelNotFoundException.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/exception/ClassNotFoundException.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/exception/DbException.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/exception/ErrorException.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/exception/Handle.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/exception/HttpException.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/exception/HttpResponseException.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/exception/PDOException.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/exception/TemplateNotFoundException.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/exception/ThrowableError.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/exception/ValidateException.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/log/alarm/Email.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/log/driver/Browser.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/log/driver/File.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/log/driver/Sae.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/log/driver/Socket.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/log/driver/Test.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/log/driver/Trace.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/model/Merge.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/model/Pivot.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/model/Relation.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/paginator/Collection.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/paginator/driver/Bootstrap.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/process/Builder.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/process/Utils.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/process/exception/Faild.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/process/exception/Timeout.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/process/pipes/Pipes.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/process/pipes/Unix.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/process/pipes/Windows.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/response/Json.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/response/Jsonp.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/response/Redirect.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/response/View.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/response/Xml.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/session/driver/Memcache.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/session/driver/Memcached.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/session/driver/Redis.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/template/TagLib.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/template/driver/File.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/template/driver/Sae.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/template/taglib/Cx.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/view/driver/Php.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/view/driver/Think.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/traits/controller/Jump.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/traits/think/Instance.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/phpunit.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/start.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/tests/thinkphp/library/think/appTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/tests/thinkphp/library/think/responseTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/tests/thinkphp/library/think/routeTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/tests/thinkphp/library/think/urlTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/tpl/default_index.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/tpl/dispatch_jump.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/tpl/make_controller.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/tpl/page_trace.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/tpl/think_exception.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/autoload.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/composer/ClassLoader.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/composer/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/composer/autoload_classmap.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/composer/autoload_namespaces.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/composer/autoload_psr4.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/composer/autoload_real.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/composer/installed.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/mail/.gitattributes" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/mail/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/mail/.travis.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/mail/composer.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/mail/contributing.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/mail/license.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/mail/src/Bridges/MailDI/MailExtension.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/mail/src/Mail/IMailer.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/mail/src/Mail/Message.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/mail/src/Mail/MimePart.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/mail/src/Mail/SendmailMailer.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/mail/src/Mail/SmtpMailer.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/mail/src/Mail/exceptions.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/mail/tests/.coveralls.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/mail/tests/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/mail/tests/Mail.DI/Mail.extension.phpt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/mail/tests/Mail.DI/include.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/mail/tests/Mail/Mail.HtmlBody.phpt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/mail/tests/Mail/Mail.HtmlBodyAndLinks.phpt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/mail/tests/Mail/Mail.attachment.phpt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/mail/tests/Mail/Mail.email.errors.phpt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/mail/tests/Mail/Mail.email.long.phpt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/mail/tests/Mail/Mail.email.multiple.phpt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/mail/tests/Mail/Mail.email.phpt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/mail/tests/Mail/Mail.headers.001.phpt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/mail/tests/Mail/Mail.headers.002.phpt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/mail/tests/Mail/Mail.longLines.phpt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/mail/tests/Mail/Mail.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/mail/tests/Mail/Mail.subject.phpt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/mail/tests/Mail/Mail.textualAndHtmlBody.attachment.expect" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/mail/tests/Mail/Mail.textualAndHtmlBody.attachment.phpt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/mail/tests/Mail/Mail.textualAndHtmlBody.embedded.attachment.expect" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/mail/tests/Mail/Mail.textualAndHtmlBody.embedded.attachment.phpt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/mail/tests/Mail/Mail.textualAndHtmlBody.embedded.expect" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/mail/tests/Mail/Mail.textualAndHtmlBody.embedded.phpt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/mail/tests/Mail/Mail.textualAndHtmlBody.embedded2.expect" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/mail/tests/Mail/Mail.textualAndHtmlBody.phpt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/mail/tests/Mail/Mail.textualBody.attachment.phpt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/mail/tests/Mail/Mail.textualBody.phpt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/mail/tests/Mail/Mail.title.phpt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/mail/tests/bootstrap.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/mail/tests/php-win.ini" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/utils/.gitattributes" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/utils/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/utils/.travis.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/utils/composer.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/utils/contributing.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/utils/license.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/utils/src/Iterators/CachingIterator.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/utils/src/Iterators/Filter.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/utils/src/Iterators/Mapper.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/utils/src/Iterators/RecursiveFilter.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/utils/src/Utils/ArrayHash.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/utils/src/Utils/ArrayList.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/utils/src/Utils/Arrays.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/utils/src/Utils/Callback.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/utils/src/Utils/DateTime.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/utils/src/Utils/FileSystem.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/utils/src/Utils/Html.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/utils/src/Utils/IHtmlString.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/utils/src/Utils/ITranslator.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/utils/src/Utils/Image.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/utils/src/Utils/Json.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/utils/src/Utils/Object.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/utils/src/Utils/ObjectMixin.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/utils/src/Utils/Paginator.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/utils/src/Utils/Random.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/utils/src/Utils/SmartObject.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/utils/src/Utils/StaticClass.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/utils/src/Utils/Strings.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/utils/src/Utils/Validators.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/utils/src/Utils/exceptions.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/utils/tests/.coveralls.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/utils/tests/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/utils/tests/Iterators/CachingIterator.basic.phpt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/utils/tests/Iterators/CachingIterator.construct.phpt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/utils/tests/Iterators/CachingIterator.width.phpt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/utils/tests/Iterators/Mapper.phpt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/utils/tests/Utils/ArrayHash.phpt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/utils/tests/Utils/ArrayList.phpt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/utils/tests/Utils/Arrays.associate().error.phpt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/utils/tests/Utils/Arrays.associate().phpt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/utils/tests/Utils/Arrays.flatten().phpt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/utils/tests/Utils/Arrays.get().phpt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/utils/tests/Utils/Arrays.getRef().phpt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/utils/tests/Utils/Arrays.grep().errors.phpt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/utils/tests/Utils/Arrays.grep().phpt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/utils/tests/Utils/Arrays.insertBefore().phpt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/utils/tests/Utils/Arrays.isList.phpt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/utils/tests/Utils/Arrays.normalize.phpt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/utils/tests/Utils/Arrays.pick().phpt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/utils/tests/Utils/Arrays.renameKey().phpt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/utils/tests/Utils/Arrays.searchKey().phpt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/utils/tests/Utils/Callback.check.phpt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/utils/tests/Utils/Callback.closure.phpt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/utils/tests/Utils/Callback.invoke.phpt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/utils/tests/Utils/Callback.invokeSafe.phpt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/utils/tests/Utils/DateTime.JSON.phpt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/utils/tests/Utils/DateTime.createFromFormat.phpt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/utils/tests/Utils/DateTime.from.phpt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/utils/tests/Utils/FileSystem.phpt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/utils/tests/Utils/Html.basic.phpt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/utils/tests/Utils/Html.children.phpt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/utils/tests/Utils/Html.construct.phpt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/utils/tests/Utils/Html.data.phpt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/utils/tests/Utils/Html.style.phpt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/utils/tests/Utils/Image.alpha1.phpt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/utils/tests/Utils/Image.alpha2.phpt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/utils/tests/Utils/Image.clone.phpt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/utils/tests/Utils/Image.drawing.phpt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/utils/tests/Utils/Image.factories.phpt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/utils/tests/Utils/Image.resize.phpt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/utils/tests/Utils/Image.save.phpt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/utils/tests/Utils/Image.send.phpt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/utils/tests/Utils/Json.decode().phpt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/utils/tests/Utils/Json.encode().phpt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/utils/tests/Utils/Object.arrayProperty.phpt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/utils/tests/Utils/Object.closureProperty.phpt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/utils/tests/Utils/Object.events.phpt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/utils/tests/Utils/Object.extensionMethod.phpt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/utils/tests/Utils/Object.extensionMethodViaInterface.phpt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/utils/tests/Utils/Object.magicMethod.errors.phpt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/utils/tests/Utils/Object.magicMethod.inheritance.phpt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/utils/tests/Utils/Object.magicMethod.phpt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/utils/tests/Utils/Object.magicMethod.types.phpt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/utils/tests/Utils/Object.methodGetter.phpt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/utils/tests/Utils/Object.property.phpt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/utils/tests/Utils/Object.referenceProperty.phpt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/utils/tests/Utils/Object.reflection.phpt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/utils/tests/Utils/Object.undeclaredMethod.phpt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/utils/tests/Utils/Object.unsetProperty.phpt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/utils/tests/Utils/ObjectMixin.checkType().phpt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/utils/tests/Utils/ObjectMixin.getMagicProperites().phpt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/utils/tests/Utils/ObjectMixin.getSuggestion().phpt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/utils/tests/Utils/ObjectMixin.strictness.phpt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/utils/tests/Utils/Paginator.phpt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/utils/tests/Utils/Random.generate().no-mcrypt.phpt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/utils/tests/Utils/Random.generate().no-openssl.phpt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/utils/tests/Utils/Random.generate().phpt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/utils/tests/Utils/SmartObject.arrayProperty.old.phpt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/utils/tests/Utils/SmartObject.arrayProperty.phpt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/utils/tests/Utils/SmartObject.closureProperty.phpt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/utils/tests/Utils/SmartObject.events.phpt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/utils/tests/Utils/SmartObject.extensionMethod.phpt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/utils/tests/Utils/SmartObject.extensionMethodViaInterface.phpt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/utils/tests/Utils/SmartObject.magicMethod.errors.phpt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/utils/tests/Utils/SmartObject.magicMethod.inheritance.phpt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/utils/tests/Utils/SmartObject.magicMethod.phpt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/utils/tests/Utils/SmartObject.magicMethod.types.phpt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/utils/tests/Utils/SmartObject.methodGetter.phpt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/utils/tests/Utils/SmartObject.property.old.phpt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/utils/tests/Utils/SmartObject.property.phpt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/utils/tests/Utils/SmartObject.referenceProperty.old.phpt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/utils/tests/Utils/SmartObject.referenceProperty.phpt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/utils/tests/Utils/SmartObject.reflection.phpt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/utils/tests/Utils/SmartObject.undeclaredMethod.phpt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/utils/tests/Utils/SmartObject.unsetProperty.phpt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/utils/tests/Utils/StaticClass.phpt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/utils/tests/Utils/Strings.Regexp.errors.backtrack.phpt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/utils/tests/Utils/Strings.Regexp.errors.compilation.phpt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/utils/tests/Utils/Strings.Regexp.errors.utf8.phpt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/utils/tests/Utils/Strings.after().phpt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/utils/tests/Utils/Strings.before().phpt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/utils/tests/Utils/Strings.checkEncoding().phpt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/utils/tests/Utils/Strings.chr().phpt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/utils/tests/Utils/Strings.compare().phpt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/utils/tests/Utils/Strings.convertCase.phpt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/utils/tests/Utils/Strings.endsWith().phpt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/utils/tests/Utils/Strings.findPrefix().phpt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/utils/tests/Utils/Strings.fixEncoding().phpt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/utils/tests/Utils/Strings.indent().phpt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/utils/tests/Utils/Strings.indexOf().phpt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/utils/tests/Utils/Strings.length().phpt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/utils/tests/Utils/Strings.match().phpt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/utils/tests/Utils/Strings.matchAll().phpt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/utils/tests/Utils/Strings.normalize().phpt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/utils/tests/Utils/Strings.normalizeNewLines().phpt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/utils/tests/Utils/Strings.pad.phpt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/utils/tests/Utils/Strings.replace().errors.callback.phpt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/utils/tests/Utils/Strings.replace().php53.phpt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/utils/tests/Utils/Strings.replace().phpt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/utils/tests/Utils/Strings.reverse().phpt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/utils/tests/Utils/Strings.split().phpt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/utils/tests/Utils/Strings.startsWith().phpt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/utils/tests/Utils/Strings.substring().phpt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/utils/tests/Utils/Strings.toAscii().phpt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/utils/tests/Utils/Strings.trim().phpt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/utils/tests/Utils/Strings.truncate().phpt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/utils/tests/Utils/Strings.webalize().phpt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/utils/tests/Utils/Validators.assert().phpt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/utils/tests/Utils/Validators.assertField().phpt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/utils/tests/Utils/Validators.is().phpt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/utils/tests/Utils/Validators.isInRange().phpt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/utils/tests/bootstrap.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/utils/tests/php-unix.ini" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/utils/tests/php-win.ini" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/topthink/think-installer/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/topthink/think-installer/composer.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/topthink/think-installer/src/Plugin.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/topthink/think-installer/src/ThinkFramework.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -3090,7 +2684,7 @@
       <option name="presentableId" value="Default" />
       <updated>1516699515667</updated>
       <workItem from="1516699517084" duration="4000" />
-      <workItem from="1516700970613" duration="423000" />
+      <workItem from="1516700970613" duration="449000" />
     </task>
     <task id="LOCAL-00001" summary="项目">
       <created>1516701159438</created>
@@ -3106,11 +2700,18 @@
       <option name="project" value="LOCAL" />
       <updated>1516701470851</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="项目">
+      <created>1516701499969</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1516701499969</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="427000" />
+    <option name="totallyTimeSpent" value="453000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="117" y="23" width="1803" height="1057" extended-state="0" />
