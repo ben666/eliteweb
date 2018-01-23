@@ -2,87 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="92471485-0794-4fe7-947f-a24129bef1dc" name="Default" comment="项目">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extend/com/wechat/wxpay/doc/README" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extend/com/wechat/wxpay/doc/README.doc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extend/org/verify/bgs/1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extend/org/verify/bgs/2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extend/org/verify/bgs/3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extend/org/verify/bgs/4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extend/org/verify/bgs/5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extend/org/verify/bgs/6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extend/org/verify/bgs/7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extend/org/verify/bgs/8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extend/org/verify/ttfs/1.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extend/org/verify/ttfs/2.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extend/org/verify/ttfs/3.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extend/org/verify/ttfs/4.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extend/org/verify/ttfs/5.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extend/org/verify/ttfs/6.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extend/org/verify/zhttfs/1.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/admin/css/chosen/chosen-sprite.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/admin/css/chosen/chosen-sprite@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/admin/css/patterns/1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/admin/css/patterns/2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/admin/css/patterns/3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/admin/css/patterns/4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/admin/css/patterns/5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/admin/css/patterns/6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/admin/css/patterns/7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/admin/css/patterns/congruent_pentagon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/admin/css/patterns/header-profile-skin-1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/admin/css/patterns/header-profile-skin-2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/admin/css/patterns/header-profile-skin-3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/admin/css/patterns/header-profile.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/admin/css/patterns/otis_redding.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/admin/css/patterns/shattered.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/admin/css/patterns/triangular.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/admin/css/plugins/blueimp/img/error.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/admin/css/plugins/blueimp/img/loading.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/admin/css/plugins/blueimp/img/play-pause.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/admin/css/plugins/blueimp/img/video-play.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/admin/css/plugins/chosen/chosen-sprite.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/admin/css/plugins/chosen/chosen-sprite@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/admin/css/plugins/footable/fonts/footable.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/admin/css/plugins/footable/fonts/footable.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/admin/css/plugins/footable/fonts/footable.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/admin/css/plugins/iCheck/green.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/admin/css/plugins/iCheck/green@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/admin/css/plugins/images/bootstrap-colorpicker/alpha-horizontal.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/admin/css/plugins/images/bootstrap-colorpicker/alpha.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/admin/css/plugins/images/bootstrap-colorpicker/hue-horizontal.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/admin/css/plugins/images/bootstrap-colorpicker/hue.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/admin/css/plugins/images/bootstrap-colorpicker/saturation.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/admin/css/plugins/images/sort.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/admin/css/plugins/images/sort_asc.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/admin/css/plugins/images/sort_desc.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/admin/css/plugins/images/sprite-skin-flat.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/admin/css/plugins/images/sprite-skin-flat2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/admin/css/plugins/images/sprite-skin-nice.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/admin/css/plugins/images/sprite-skin-simple.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/admin/css/plugins/images/spritemap.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/admin/css/plugins/images/spritemap@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/admin/css/plugins/jQueryUI/images/animated-overlay.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/admin/css/plugins/jQueryUI/images/ui-bg_flat_0_aaaaaa_40x100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/admin/css/plugins/jQueryUI/images/ui-bg_flat_75_ffffff_40x100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/admin/css/plugins/jQueryUI/images/ui-bg_glass_55_fbf9ee_1x400.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/admin/css/plugins/jQueryUI/images/ui-bg_glass_65_ffffff_1x400.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/admin/css/plugins/jQueryUI/images/ui-bg_glass_75_dadada_1x400.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/admin/css/plugins/jQueryUI/images/ui-bg_glass_75_e6e6e6_1x400.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/admin/css/plugins/jQueryUI/images/ui-bg_glass_95_fef1ec_1x400.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/admin/css/plugins/jQueryUI/images/ui-bg_highlight-soft_75_cccccc_1x100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/admin/css/plugins/jQueryUI/images/ui-icons_222222_256x240.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/admin/css/plugins/jQueryUI/images/ui-icons_2e83ff_256x240.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/admin/css/plugins/jQueryUI/images/ui-icons_454545_256x240.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/admin/css/plugins/jQueryUI/images/ui-icons_888888_256x240.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/admin/css/plugins/jQueryUI/images/ui-icons_cd0a0a_256x240.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/admin/css/plugins/jsTree/32px.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/admin/css/plugins/jsTree/39px.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/admin/css/plugins/jsTree/40px.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/admin/css/plugins/jsTree/throbber.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/admin/css/plugins/slick/ajax-loader.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/admin/css/plugins/slick/fonts/slick.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/admin/css/plugins/slick/fonts/slick.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/admin/css/plugins/slick/fonts/slick.woff" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/admin/fonts/CrYjSnGjrRCn0pd9VQsnFOvvDin1pK8aKteLpeZ5c0A.woff" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/admin/fonts/DXI1ORHCpsQm3Vp6mXoaTaRDOzjiPcYnFooOUGCOsRk.woff" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/admin/fonts/Hgo13k-tfSpn0qi1SFdUfbO3LdcAZYWl9Si6vvxL-qU.woff" />
@@ -1254,337 +1173,7 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/utils/tests/Utils/images/bad.gif" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/utils/tests/Utils/images/logo.gif" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nette/utils/tests/Utils/images/logo.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/ben.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/elite.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/.htaccess" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/admin/common.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/admin/config.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/admin/controller/Action.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/admin/controller/Admin.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/admin/controller/Auth.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/admin/controller/Base.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/admin/controller/Category.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/admin/controller/Config.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/admin/controller/Database.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/admin/controller/File.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/admin/controller/Index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/admin/controller/Menu.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/admin/controller/Service.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/admin/controller/User.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/admin/controller/Wechat.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/admin/model/Action.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/admin/model/ActionLog.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/admin/model/AuthGroup.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/admin/model/AuthGroupAccess.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/admin/model/AuthRule.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/admin/model/Base.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/admin/model/Category.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/admin/model/Config.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/admin/model/File.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/admin/model/Log.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/admin/model/Member.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/admin/model/Menu.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/admin/model/Picture.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/admin/model/WechatDepartment.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/admin/model/WechatDepartmentUser.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/admin/model/WechatLog.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/admin/model/WechatTag.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/admin/model/WechatUser.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/admin/model/WechatUserTag.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/admin/validate/Menu.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/admin/view/action/actionlog.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/admin/view/action/edit.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/admin/view/auth/category.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/admin/view/auth/editgroup.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/admin/view/auth/group.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/admin/view/auth/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/admin/view/auth/managergroup.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/admin/view/auth/tree.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/admin/view/auth/user.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/admin/view/base/404.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/admin/view/base/500.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/admin/view/base/base.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/admin/view/base/common.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/admin/view/base/error.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/admin/view/base/exception.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/admin/view/base/forgot_password.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/admin/view/base/login.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/admin/view/base/reforgot_password.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/admin/view/base/register.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/admin/view/base/skinconfig.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/admin/view/base/success.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/admin/view/category/edit.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/admin/view/category/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/admin/view/category/operate.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/admin/view/category/tree.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/admin/view/config/edit.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/admin/view/config/group.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/admin/view/config/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/admin/view/config/sort.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/admin/view/database/export.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/admin/view/database/import.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/admin/view/database/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/admin/view/index/editPassWord.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/admin/view/index/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/admin/view/index/search.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/admin/view/menu/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/admin/view/menu/sort.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/admin/view/user/action.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/admin/view/user/add.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/admin/view/user/editaction.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/admin/view/user/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/admin/view/user/updatenickname.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/admin/view/user/updatepassword.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/admin/view/wechat/department.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/admin/view/wechat/tag.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/admin/view/wechat/user.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/command.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/common.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/common/behavior/AppInit.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/common/common.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/common/validate/Member.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/common/validate/UcenterMember.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/common/validate/WechatUser.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/config.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/database.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/home/common.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/home/config.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/home/controller/Base.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/home/controller/File.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/home/controller/Index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/home/model/Browse.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/home/model/Comment.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/home/model/File.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/home/model/Like.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/home/model/Picture.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/home/model/Push.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/home/model/PushReview.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/home/model/WeachatDepartment.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/home/model/WechatDepartmentUser.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/home/model/WechatTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/home/model/WechatUser.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/home/model/WechatUserTag.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/home/view/index/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/home/view/public/404.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/home/view/public/500.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/home/view/public/common.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/home/view/public/navbar.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/home/view/public/pure.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/index/controller/Index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/route.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/tags.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/user/common.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/user/config.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/user/controller/Index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/user/model/Base.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/user/model/Member.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/user/model/UcenterAdmin.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/user/model/UcenterApp.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/user/model/UcenterMember.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/user/model/UcenterSetting.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/user/model/WechatUser.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/user/validate/Member.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/user/validate/WechatUser.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/user/view/index/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/composer.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/console" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extend/com/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extend/com/thinkimage/Driver/GIF.class.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extend/com/thinkimage/Driver/ImageGd.class.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extend/com/thinkimage/Driver/ImageImagick.class.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extend/com/thinkimage/ThinkImage.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extend/com/ueditor/FileStorage.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extend/com/ueditor/FileStorage/File.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extend/com/ueditor/FileStorage/Sae.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extend/com/ueditor/UEditor.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extend/com/ueditor/ueditor.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extend/com/wechat/JsSdk.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extend/com/wechat/JsSdkPay.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extend/com/wechat/QYWechat.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extend/com/wechat/TPQYWechat.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extend/com/wechat/TPWechat.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extend/com/wechat/Wechat.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extend/com/wechat/errCode.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extend/com/wechat/qyerrCode.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extend/com/wechat/wxpay/cert/apiclient_cert.pem" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extend/com/wechat/wxpay/cert/apiclient_key.pem" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extend/com/wechat/wxpay/example/JsApiPay.class.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extend/com/wechat/wxpay/example/PayNotifyCallBack.class.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extend/com/wechat/wxpay/example/WxPay.MicroPay.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extend/com/wechat/wxpay/example/WxPay.NativePay.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extend/com/wechat/wxpay/example/download.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extend/com/wechat/wxpay/example/jsapi.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extend/com/wechat/wxpay/example/log.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extend/com/wechat/wxpay/example/micropay.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extend/com/wechat/wxpay/example/native.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extend/com/wechat/wxpay/example/native_notify.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extend/com/wechat/wxpay/example/notify.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extend/com/wechat/wxpay/example/orderquery.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extend/com/wechat/wxpay/example/phpqrcode/CHANGELOG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extend/com/wechat/wxpay/example/phpqrcode/INSTALL" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extend/com/wechat/wxpay/example/phpqrcode/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extend/com/wechat/wxpay/example/phpqrcode/README" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extend/com/wechat/wxpay/example/phpqrcode/VERSION" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extend/com/wechat/wxpay/example/phpqrcode/bindings/tcpdf/qrcode.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extend/com/wechat/wxpay/example/phpqrcode/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extend/com/wechat/wxpay/example/phpqrcode/phpqrcode.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extend/com/wechat/wxpay/example/phpqrcode/qrbitstream.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extend/com/wechat/wxpay/example/phpqrcode/qrconfig.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extend/com/wechat/wxpay/example/phpqrcode/qrconst.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extend/com/wechat/wxpay/example/phpqrcode/qrencode.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extend/com/wechat/wxpay/example/phpqrcode/qrimage.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extend/com/wechat/wxpay/example/phpqrcode/qrinput.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extend/com/wechat/wxpay/example/phpqrcode/qrlib.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extend/com/wechat/wxpay/example/phpqrcode/qrmask.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extend/com/wechat/wxpay/example/phpqrcode/qrrscode.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extend/com/wechat/wxpay/example/phpqrcode/qrspec.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extend/com/wechat/wxpay/example/phpqrcode/qrsplit.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extend/com/wechat/wxpay/example/phpqrcode/qrtools.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extend/com/wechat/wxpay/example/phpqrcode/tools/merge.bat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extend/com/wechat/wxpay/example/phpqrcode/tools/merge.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extend/com/wechat/wxpay/example/phpqrcode/tools/merge.sh" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extend/com/wechat/wxpay/example/phpqrcode/tools/merged_config.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extend/com/wechat/wxpay/example/phpqrcode/tools/merged_header.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extend/com/wechat/wxpay/example/qrcode.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extend/com/wechat/wxpay/example/refund.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extend/com/wechat/wxpay/example/refundquery.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extend/com/wechat/wxpay/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extend/com/wechat/wxpay/lib/WxPayApi.class.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extend/com/wechat/wxpay/lib/WxPayBizPayUrl.class.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extend/com/wechat/wxpay/lib/WxPayCloseOrder.class.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extend/com/wechat/wxpay/lib/WxPayConfig.class.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extend/com/wechat/wxpay/lib/WxPayDataBase.class.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extend/com/wechat/wxpay/lib/WxPayDownloadBill.class.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extend/com/wechat/wxpay/lib/WxPayException.class.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extend/com/wechat/wxpay/lib/WxPayJsApiPay.class.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extend/com/wechat/wxpay/lib/WxPayMicroPay.class.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extend/com/wechat/wxpay/lib/WxPayNotify.class.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extend/com/wechat/wxpay/lib/WxPayNotifyReply.class.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extend/com/wechat/wxpay/lib/WxPayOrderQuery.class.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extend/com/wechat/wxpay/lib/WxPayRefund.class.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extend/com/wechat/wxpay/lib/WxPayRefundQuery.class.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extend/com/wechat/wxpay/lib/WxPayReport.class.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extend/com/wechat/wxpay/lib/WxPayResults.class.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extend/com/wechat/wxpay/lib/WxPayReverse.class.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extend/com/wechat/wxpay/lib/WxPayShortUrl.class.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extend/com/wechat/wxpay/lib/WxPayUnifiedOrder.class.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extend/org/Auth.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extend/org/Crypt.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extend/org/Database.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extend/org/Image.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extend/org/Oauth.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extend/org/Page.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extend/org/Parser.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extend/org/Transform.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extend/org/Upload.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extend/org/Verify.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extend/org/image/driver/Gd.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extend/org/image/driver/Gif.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extend/org/image/driver/Imagick.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extend/org/oauth/Driver.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extend/org/oauth/driver/Diandian.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extend/org/oauth/driver/Douban.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extend/org/oauth/driver/Github.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extend/org/oauth/driver/Google.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extend/org/oauth/driver/Kaixin.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extend/org/oauth/driver/Msn.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extend/org/oauth/driver/Qq.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extend/org/oauth/driver/Renren.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extend/org/oauth/driver/Sina.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extend/org/oauth/driver/Sohu.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extend/org/oauth/driver/T163.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extend/org/oauth/driver/Taobao.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extend/org/oauth/driver/Tencent.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extend/org/oauth/driver/X360.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extend/org/parser/driver/Markdown.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extend/org/parser/driver/Ubb.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extend/org/transform/driver/Base64.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extend/org/transform/driver/Json.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extend/org/transform/driver/Xml.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extend/org/upload/driver/Ftp.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extend/org/upload/driver/Local.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extend/org/upload/driver/Qiniu.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extend/org/upload/driver/Sae.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extend/org/upload/driver/Upyun.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extend/org/upload/driver/qiniu/QiniuStorage.php" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/.htaccess" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/admin/css/animate.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/admin/css/bootstrap.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/admin/css/bootstrap.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/admin/css/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/admin/css/bootstrap.min.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/admin/css/chosen/chosen.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/admin/css/main.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/admin/css/plugins/awesome-bootstrap-checkbox/awesome-bootstrap-checkbox.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/admin/css/plugins/blueimp/css/blueimp-gallery-indicator.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/admin/css/plugins/blueimp/css/blueimp-gallery-video.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/admin/css/plugins/blueimp/css/blueimp-gallery.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/admin/css/plugins/blueimp/css/blueimp-gallery.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/admin/css/plugins/blueimp/css/demo.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/admin/css/plugins/blueimp/img/error.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/admin/css/plugins/blueimp/img/play-pause.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/admin/css/plugins/blueimp/img/video-play.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/admin/css/plugins/bootstrap-markdown/bootstrap-markdown.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/admin/css/plugins/bootstrap-rtl/bootstrap-rtl.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/admin/css/plugins/bootstrap-rtl/bootstrap-rtl.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/admin/css/plugins/bootstrap-rtl/bootstrap-rtl.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/admin/css/plugins/bootstrapTour/bootstrap-tour.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/admin/css/plugins/c3/c3.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/admin/css/plugins/chartist/chartist.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/admin/css/plugins/chosen/chosen.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/admin/css/plugins/clockpicker/clockpicker.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/admin/css/plugins/codemirror/ambiance.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/admin/css/plugins/codemirror/codemirror.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/admin/css/plugins/colorpicker/bootstrap-colorpicker.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/admin/css/plugins/cropper/cropper.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/admin/css/plugins/dataTables/dataTables.bootstrap.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/admin/css/plugins/dataTables/dataTables.responsive.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/admin/css/plugins/dataTables/dataTables.tableTools.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/admin/css/plugins/dataTables/datatables.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/admin/css/plugins/datapicker/datepicker3.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/admin/css/plugins/daterangepicker/daterangepicker-bs3.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/admin/css/plugins/dropzone/basic.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/admin/css/plugins/dropzone/dropzone.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/admin/css/plugins/footable/fonts/footable.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/admin/css/plugins/footable/footable.core.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/admin/css/plugins/fullcalendar/fullcalendar.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/admin/css/plugins/fullcalendar/fullcalendar.print.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/admin/css/plugins/iCheck/custom.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/admin/css/plugins/ionRangeSlider/ion.rangeSlider.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/admin/css/plugins/ionRangeSlider/ion.rangeSlider.skinFlat.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/admin/css/plugins/ionRangeSlider/ion.rangeSlider.skinNice.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/admin/css/plugins/ionRangeSlider/ion.rangeSlider.skinSimple.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/admin/css/plugins/jQueryUI/jquery-ui-1.10.4.custom.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/admin/css/plugins/jQueryUI/jquery-ui.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/admin/css/plugins/jasny/jasny-bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/admin/css/plugins/jqGrid/ui.jqgrid.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/admin/css/plugins/jsTree/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/admin/css/plugins/jsTree/style.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/admin/css/plugins/ladda/ladda-themeless.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/admin/css/plugins/ladda/ladda.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/admin/css/plugins/morris/morris-0.4.3.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/admin/css/plugins/nouslider/jquery.nouislider.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/admin/css/plugins/select2/select2.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/admin/css/plugins/slick/fonts/slick.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/admin/css/plugins/slick/slick-theme.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/admin/css/plugins/slick/slick.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/admin/css/plugins/social-buttons/social-buttons.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/admin/css/plugins/steps/jquery.steps.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/admin/css/plugins/summernote/summernote-bs3.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/admin/css/plugins/summernote/summernote.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/admin/css/plugins/sweetalert/sweetalert.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/admin/css/plugins/switchery/switchery.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/admin/css/plugins/toastr/toastr.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/admin/css/plugins/touchspin/jquery.bootstrap-touchspin.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/admin/css/special/special-title.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/admin/css/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/admin/css/style.min.css" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/admin/fonts/glyphicons-halflings-regular.svg" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/admin/js/bootstrap.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/admin/js/bootstrap.min.js" />
@@ -3398,6 +2987,7 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/topthink/think-installer/composer.json" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/topthink/think-installer/src/Plugin.php" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/topthink/think-installer/src/ThinkFramework.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -3500,12 +3090,27 @@
       <option name="presentableId" value="Default" />
       <updated>1516699515667</updated>
       <workItem from="1516699517084" duration="4000" />
-      <workItem from="1516700970613" duration="106000" />
+      <workItem from="1516700970613" duration="423000" />
     </task>
+    <task id="LOCAL-00001" summary="项目">
+      <created>1516701159438</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1516701159438</updated>
+    </task>
+    <task id="LOCAL-00002" summary="项目">
+      <created>1516701470851</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1516701470851</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="110000" />
+    <option name="totallyTimeSpent" value="427000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="117" y="23" width="1803" height="1057" extended-state="0" />
@@ -3535,6 +3140,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="项目" />
+    <option name="LAST_COMMIT_MESSAGE" value="项目" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
